@@ -1,0 +1,32 @@
+{
+  "name": "snowpack-app",
+  "version": "1.0.0",
+  "description": "Example project for Snowpack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@snowpack/plugin-build-script": "2.1.0",
+    "@snowpack/plugin-optimize": "0.2.12",
+    "autoprefixer": "10.2.1",
+    "mkdirp": "1.0.4",
+    "postcss": "8.2.4",
+    "postcss-cli": "8.3.1",
+    "snowpack": "3.0.10"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanrfp/snowpack-app.git"
+  },
+  "keywords": [],
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebanrfp/snowpack-app/issues"
+  },
+  "homepage": "https://github.com/estebanrfp/snowpack-app#readme"
+}
