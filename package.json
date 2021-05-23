@@ -8,9 +8,9 @@
     "@snowpack/plugin-optimize": "0.2.13",
     "autoprefixer": "10.2.5",
     "mkdirp": "1.0.4",
-    "postcss": "8.2.15",
+    "postcss": "8.3.0",
     "postcss-cli": "8.3.1",
-    "snowpack": "3.5.0"
+    "snowpack": "3.5.1"
   },
   "scripts": {
     "start": "snowpack dev",
